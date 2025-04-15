@@ -1,0 +1,9 @@
+/frames
+/downloads
+/data
+/checkpoints
+/my_custom_caption_model
+/video_embeddings
+.idea
+frames
+.env
