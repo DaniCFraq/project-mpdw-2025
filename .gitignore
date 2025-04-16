@@ -7,3 +7,6 @@
 .idea
 frames
 .env
+docker-compose.yaml
+phase1/captions_data.pkl
+phase1/video_captions_docs.pkl
