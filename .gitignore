@@ -10,3 +10,6 @@ frames
 docker-compose.yaml
 phase1/captions_data.pkl
 phase1/video_captions_docs.pkl
+phase2/captions_data.pkl
+phase2/video_captions_docs.pkl
+phase2/downloads
